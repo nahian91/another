@@ -1,0 +1,14 @@
+Plugins
+----
+
+Animate CSS - https://daneden.github.io/animate.css/
+Wow Js - https://wowjs.uk/
+
+
+Counter JS - https://github.com/bfintal/Counter-Up
+
+Magnific Popup - https://dimsemenov.com/plugins/magnific-popup/
+
+Owl Carousel
+
+Pre Loeader
